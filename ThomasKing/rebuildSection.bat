@@ -1,0 +1,1 @@
+rebuild_section.exe %~n1.so %~n1_full.so

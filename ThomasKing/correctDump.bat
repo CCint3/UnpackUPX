@@ -1,0 +1,1 @@
+correctDump.exe %~n1.so %~n1_new.so
